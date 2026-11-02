@@ -1,0 +1,14 @@
+{
+  "name": "banpick-lienquan",
+  "version": "1.0.0",
+  "description": "Trợ lý Ban/Pick Liên Quân — gợi ý cấm/chọn theo tier meta, kèo khắc chế và hợp cặp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
